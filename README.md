@@ -3,6 +3,7 @@ Notes on Embedded GUI projects on Github
 
 REPO | NOTES
 ----- | -----
+MaJerle/EasyGUI | A surprisingly complete GUI for the work of mostly 1 man.
 piyushpandey013/ucGUI | Seems to be a copy of uC/GUI by Micrium Inc. Marketed by SEGGER Microcontroller
 kvp7206/uGFX | Seems to be a copy of µGFX https://ugfx.io
 NXPmicro/eGUI | Freescale eGUI 3.0 (D4D)  LGPL license.
