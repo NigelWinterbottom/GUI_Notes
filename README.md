@@ -3,10 +3,14 @@ Notes on Embedded GUI projects on Github
 
 REPO | NOTES
 ----- | -----
+olikraus/u8glib | C. Monochome primitives. Superceded by olikraus/u8g2. Extensive specific hardware support.
+olikraus/u8g2 | C. Monochome primitives. As olikraus/u8g2 with some cruft removed.
+lvgl/lvgl | C. A complete GUI with many widgets available. Well worth more investigation.
 MaJerle/EasyGUI | A surprisingly complete GUI for the work of mostly 1 man.
+NXPmicro/eGUI | Freescale eGUI 3.0 (D4D)  LGPL license.
+--- | ---
 piyushpandey013/ucGUI | Seems to be a copy of uC/GUI by Micrium Inc. Marketed by SEGGER Microcontroller
 kvp7206/uGFX | Seems to be a copy of µGFX https://ugfx.io
-NXPmicro/eGUI | Freescale eGUI 3.0 (D4D)  LGPL license.
 ryankurte/micro-gui | A single man effort so is incomplete.
 yushroom/FishGUI  | An Immediate Mode GUI library (IMGUI), based on NanoVG. Not aimed at Embedded.
 LiveMirror/minigui | C++. Looked no further.
